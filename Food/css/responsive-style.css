@@ -1,0 +1,14 @@
+@media(max-width:991px){
+    .text-content{
+        width: 100%;
+    }
+    .navigation-wrap .navigation-brand img{
+        height :3.8125rem;      
+    }
+    .navigation-wrap{
+        text-align:center;
+        background-color:var(--white-color);
+    }
+   
+
+}
